@@ -1,0 +1,11 @@
+.footer-final {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  color: #bfbfbf;
+}
+.footer-final a {
+  text-decoration: none;
+  color: #6554af;
+}
