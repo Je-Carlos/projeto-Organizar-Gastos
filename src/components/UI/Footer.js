@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div class="footer-final">
-        <label>
+        <p>
           Copyright © 2023{" "}
           <span>
             <a
@@ -16,7 +16,7 @@ const Footer = () => {
             </a>
           </span>
           . Todos os direitos reservados.
-        </label>
+        </p>
       </div>
     </footer>
   );
