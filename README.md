@@ -1,9 +1,22 @@
 # Controle de Gastos
 ![logo](https://i.imgur.com/jd4cvQn.png)  
 
+<center>
 
-O Controle de Gastos é uma aplicação web desenvolvida para ajudar os usuários a monitorarem e gerenciarem suas finanças pessoais. Com esta aplicação, os usuários podem registrar e acompanhar suas despesas ao longo do tempo, filtrando-as por ano para uma visualização mais detalhada.  
+[Projeto](https://projeto-organizar-despesas.vercel.app/) •
+[Funcionalidades](#funcionalidades-principais) •
+[Tecnologias Utilizadas](#tecnologias-utilizadas) •
+[Instalação](#instalação) •
+[Contato](#contato-profissional)
+
+</center>
+
+
+O Controle de Gastos é uma aplicação web desenvolvida para ajudar os usuários a monitorarem e gerenciarem suas finanças pessoais. Com esta aplicação, os usuários podem registrar e acompanhar suas despesas ao longo do tempo, filtrando-as por ano para uma visualização mais detalhada. Você pode conferir como ele nesse  
+
+
 Este repositório possui apenas um projeto, caso tenha interesse em acompanhar minha evolução através do React, pode visitar meu repositório [React - Complete Guide](https://github.com/Je-Carlos/React-complete-guide)
+
 
 ## Funcionalidades Principais
 
