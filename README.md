@@ -1,4 +1,4 @@
-# Controle de Gastos
+# Organizar Gastos
 ![logo](https://i.imgur.com/jd4cvQn.png)  
 
 <center>
