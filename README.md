@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Organizar Gastos
+![logo](https://i.imgur.com/jd4cvQn.png)  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<center>
 
-## Available Scripts
+[Projeto](https://projeto-organizar-despesas.vercel.app/) •
+[Funcionalidades](#funcionalidades-principais) •
+[Tecnologias Utilizadas](#tecnologias-utilizadas) •
+[Instalação](#instalação) •
+[Contato](#contato-profissional)
 
-In the project directory, you can run:
+</center>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O Controle de Gastos é uma aplicação web desenvolvida para ajudar os usuários a monitorarem e gerenciarem suas finanças pessoais. Com esta aplicação, os usuários podem registrar e acompanhar suas despesas ao longo do tempo, filtrando-as por ano para uma visualização mais detalhada. Você pode conferir como ele nesse  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Este repositório possui apenas um projeto, caso tenha interesse em acompanhar minha evolução através do React, pode visitar meu repositório [React - Complete Guide](https://github.com/Je-Carlos/React-complete-guide)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Funcionalidades Principais
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Registro de despesas: Os usuários podem adicionar informações detalhadas sobre suas despesas, como valor, categoria e data.
+- Filtragem por ano: A aplicação permite aos usuários filtrar as despesas com base no ano selecionado, proporcionando uma visão geral dos gastos em um período específico.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tecnologias Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React: Biblioteca JavaScript para construção de interfaces de usuário.
+- HTML/CSS: Linguagens de marcação e estilização utilizadas para a estruturação e apresentação do conteúdo.
+- JavaScript: Linguagem de programação utilizada para adicionar interatividade e funcionalidades dinâmicas à aplicação.
 
-### `npm run eject`
+## Pré-requisitos
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js (v18.16.1)
+- Yarn (v1.22.19)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Instalação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone o repositório do projeto:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/Je-Carlos/projeto-Organizar-Gastos
+```
 
-## Learn More
+2. Acesse o diretório do projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+cd projeto-Organizar-Gastos
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Instale as dependências:
 
-### Code Splitting
+```bash
+yarn install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Uso
 
-### Analyzing the Bundle Size
+1. Execute o projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+yarn start
+```
 
-### Making a Progressive Web App
+2. Abra o navegador e acesse `http://localhost:3000` para visualizar a aplicação.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contato Profissional
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato pelo e-mail: [Email](cpjeanberg@gmail.com) ou [Linkedin](https://www.linkedin.com/in/jean-carlos-berg/).
