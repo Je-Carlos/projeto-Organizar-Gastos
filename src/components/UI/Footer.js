@@ -3,7 +3,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer>
-      <div class="footer-final">
+      <div className="footer-final">
         <p>
           Copyright © 2023{" "}
           <span>
